@@ -1,6 +1,6 @@
-#1. Project Name : Membership Manage System
+# 1. Project Name : Membership Manage System
     1. 등록된 회원들을 관리하는 프로그램    
-#2. Program Information
+# 2. Program Information
     1. Installation : Visual Studio
     2. Method of Use
         a. 이 프로그램을 사용하기 위해 회원가입을 해서 계정을 만든다.
